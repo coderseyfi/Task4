@@ -1,0 +1,16 @@
+D:\C# Tasks\20220129-Task4\TurboAz\obj\Debug\net5.0\TurboAz.csproj.AssemblyReference.cache
+D:\C# Tasks\20220129-Task4\TurboAz\obj\Debug\net5.0\TurboAz.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Tasks\20220129-Task4\TurboAz\obj\Debug\net5.0\TurboAz.AssemblyInfoInputs.cache
+D:\C# Tasks\20220129-Task4\TurboAz\obj\Debug\net5.0\TurboAz.AssemblyInfo.cs
+D:\C# Tasks\20220129-Task4\TurboAz\obj\Debug\net5.0\TurboAz.csproj.CoreCompileInputs.cache
+D:\C# Tasks\20220129-Task4\TurboAz\bin\Debug\net5.0\TurboAz.exe
+D:\C# Tasks\20220129-Task4\TurboAz\bin\Debug\net5.0\TurboAz.deps.json
+D:\C# Tasks\20220129-Task4\TurboAz\bin\Debug\net5.0\TurboAz.runtimeconfig.json
+D:\C# Tasks\20220129-Task4\TurboAz\bin\Debug\net5.0\TurboAz.runtimeconfig.dev.json
+D:\C# Tasks\20220129-Task4\TurboAz\bin\Debug\net5.0\TurboAz.dll
+D:\C# Tasks\20220129-Task4\TurboAz\bin\Debug\net5.0\ref\TurboAz.dll
+D:\C# Tasks\20220129-Task4\TurboAz\bin\Debug\net5.0\TurboAz.pdb
+D:\C# Tasks\20220129-Task4\TurboAz\obj\Debug\net5.0\TurboAz.dll
+D:\C# Tasks\20220129-Task4\TurboAz\obj\Debug\net5.0\ref\TurboAz.dll
+D:\C# Tasks\20220129-Task4\TurboAz\obj\Debug\net5.0\TurboAz.pdb
+D:\C# Tasks\20220129-Task4\TurboAz\obj\Debug\net5.0\TurboAz.genruntimeconfig.cache
